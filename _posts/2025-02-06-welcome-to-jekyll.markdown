@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to the blog of YogiOps!"
 date:   2025-02-06 11:38:42 +0200
 categories: jekyll update
 ---
